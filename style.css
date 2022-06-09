@@ -1,0 +1,13 @@
+body{
+    background-image: url("https://t4.ftcdn.net/jpg/04/26/87/73/240_F_426877367_ghRQiRJu18qvBQrJdWbaw2I5ATGqwGkS.jpg");
+    
+    
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
+}
+#font{
+    font-size: large;
+    font-weight: bold;
+    font-style: italic;
+}
